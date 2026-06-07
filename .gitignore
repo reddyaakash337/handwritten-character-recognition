@@ -1,5 +1,4 @@
 venv/
 .ipynb_checkpoints/
 **pycache**/
-*.keras
 .DS_Store

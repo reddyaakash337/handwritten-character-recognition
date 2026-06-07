@@ -1,0 +1,12 @@
+
+Handwritten Character Recognition Results
+
+Dataset: EMNIST Balanced
+Number of Classes: 47
+
+Test Accuracy: 0.8766
+Test Loss: 0.3648
+
+Epochs: 8
+Optimizer: Adam
+Loss Function: Sparse Categorical Crossentropy

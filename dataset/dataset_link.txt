@@ -1,0 +1,11 @@
+Dataset Used:
+EMNIST Balanced Dataset
+
+Source:
+https://www.kaggle.com/datasets/crawford/emnist
+
+Dataset Type:
+Handwritten character recognition dataset containing digits and letters.
+
+Number of Classes:
+47
